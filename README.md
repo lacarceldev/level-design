@@ -9,5 +9,5 @@ Welcome to my level design and environment blockout portfolio repository, built 
 ```text
 .
 ├── docs/
-│   ├── TacticalArena   # Concept layout
+│   ├── TacticalArena.pdf   # Concept layout
 └── README.md                         # Central Repository README
